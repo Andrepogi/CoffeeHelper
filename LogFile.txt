@@ -1,0 +1,7 @@
+Writing orders from stack 2022-07-01 at 03:14:12 PDT
+
+ORDER FOR: Andre
+Item: 1 | A Black Coffee with milk as a hot drink and an espresso with sugar topped with Whipped Cream | Cost: 1.50 
+Item: 2 | A Black Coffee with milk as a hot drink with sugar | Cost: 1.05 
+Item: 3 | A Black Coffee topped with Whipped Cream with sugar as a hot drink | Cost: 1.00 
+TOTAL COST OF ORDER: 3.55

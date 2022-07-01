@@ -1,0 +1,6 @@
+Black Coffee = 16
+Milk = 3
+Hot Water = 6
+Espresso = 6
+Sugar = 14
+Whipped Cream = 9
